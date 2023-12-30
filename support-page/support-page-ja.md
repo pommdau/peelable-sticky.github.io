@@ -1,31 +1,32 @@
-# MeasuringRope
+# Peelable Sticky
 
-<img width="300" alt="image" src="https://i.imgur.com/ESl1hqT.png">
+<img width="300" alt="image" src="https://i.imgur.com/vRozowM.png">
 
 ## どんなアプリ？
 
-- MeasuringRopeはスクリーン上の2点間の距離を測ることができるツールです。
-- 2点のポインタ以外の部分はマウス操作を奪うことがないので、他のアプリの操作を邪魔することなく距離を測ることができます。
-- また2点を結ぶロープには現実のような弾性を持たせており、気持ちの良い操作感になっています。(設定から弾性をなくすこともできます)
+- Peelable Stickyは付箋を模したメモアプリで、ちょっとしたことを書き留めておけるツールです。
+- また個性的な機能として、付箋の右側を掴んで左方向へドラッグすることで付箋を剥がすことができる、つまりはウインドウを閉じることができます。
+- 現実世界で仕事を終えた付箋を剥がすときに感じる、ある種の気持ちよさのようなものを感じてもらえたら嬉しいです。
 
-<img width="800" alt="image" src="https://i.imgur.com/AYSeH4q.png">
+## 主な機能 (一部有料版の機能を含みます)
+- 付箋の色の変更
+- 付箋の形の変更(いくつかの横長の長方形・正方形)
+- 付箋を剥がす効果のON/OFF
+- フォント・文字色の変更
+- ウインドウを前面で固定
+- ウインドウのサイズの変更
+- 付箋の整列(上下左右・右端・下端)
+- すべての付箋の文字列検索
+- ゴミ箱機能(閉じた付箋を戻すことができます)
 
-https://github.com/pommdau/measuring-rope.github.io/assets/29433103/0a561ce7-e863-4033-bfd4-ae74f30874e2
+## プレビュー
 
-## 主な機能
+<img width="600" alt="image" src="https://i.imgur.com/OXf1qgD.jpg">
 
-### 基本の機能
-- 画面上の2点間の距離を計測できます
-- 垂直または水平に2点間を計測できます (Shiftキーを押す)
-- ピクセル・センチ・ミリメートル・インチなどの単位を選ぶことができます。
+<img width="600" alt="image" src="https://i.imgur.com/Rx5BLx2.jpg">
 
-### Pro版(買い切り)の機能
-- 様々なテーマを選択して見た目を変更できます
-- ポインタのスタイルが選択できます
-- ポインタのサイズが選択できます
-- ロープのやわらかさが変更できます(弾性無しも選択可)
-- ロープの太さが変更できます
+<img width="600" alt="image" src="https://i.imgur.com/hzZRgR9.jpg">
 
-### プレビュー
+<img width="600" alt="image" src="https://i.imgur.com/VXZWvlH.jpg">
 
-https://github.com/pommdau/measuring-rope.github.io/assets/29433103/28e284f5-e941-43fb-b1ee-2f3be2765a00
+<img width="600" alt="image" src="https://i.imgur.com/xCDaytW.jpg">
