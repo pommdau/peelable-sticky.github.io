@@ -19,14 +19,17 @@
 - すべての付箋の文字列検索
 - ゴミ箱機能(閉じた付箋を戻すことができます)
 
+## お問い合わせ
+- https://docs.google.com/forms/d/e/1FAIpQLSdXe_whGwWYoOb2oRf9DI5c0byigbe0rQJrjS25CImp_VENVA/viewform?usp=pp_url
+
 ## プレビュー
 
-<img width="600" alt="image" src="https://i.imgur.com/OXf1qgD.jpg">
+![ScreenshotsFotAppStore 010](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/88b7bf66-6aa6-486f-96e8-498de3cb5b09)
 
-<img width="600" alt="image" src="https://i.imgur.com/Rx5BLx2.jpg">
+![ScreenshotsFotAppStore 011](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/ac0d3a51-b719-429d-988f-6e8f51df6952)
 
-<img width="600" alt="image" src="https://i.imgur.com/hzZRgR9.jpg">
+![ScreenshotsFotAppStore 012](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/9fc8539d-6d6a-4d50-92d7-40dcfb102866)
 
-<img width="600" alt="image" src="https://i.imgur.com/VXZWvlH.jpg">
+![ScreenshotsFotAppStore 013](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/ff8f1902-078e-43e3-959d-ed3f0cee012a)
 
-<img width="600" alt="image" src="https://i.imgur.com/xCDaytW.jpg">
+![ScreenshotsFotAppStore 014](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/811f1675-2cff-4159-a34f-062c9694bded)
