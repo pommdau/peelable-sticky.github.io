@@ -19,14 +19,17 @@
 - Search for text within all sticky notes
 - Trash feature (recover closed sticky notes)
 
+## Contact
+- https://docs.google.com/forms/d/e/1FAIpQLSdXe_whGwWYoOb2oRf9DI5c0byigbe0rQJrjS25CImp_VENVA/viewform?usp=pp_url
+
 ## Preview
 
-<img width="600" alt="image" src="https://i.imgur.com/OXf1qgD.jpg">
+![ScreenshotsFotAppStore 004](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/bb49485c-803a-4eb3-a6e6-54126f71b582)
 
-<img width="600" alt="image" src="https://i.imgur.com/Rx5BLx2.jpg">
+![ScreenshotsFotAppStore 005](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/00b40a76-7bb3-481f-990c-dc5a4026597d)
 
-<img width="600" alt="image" src="https://i.imgur.com/hzZRgR9.jpg">
+![ScreenshotsFotAppStore 006](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/12df2181-b97d-421d-811d-ac94b1eff4f3)
 
-<img width="600" alt="image" src="https://i.imgur.com/VXZWvlH.jpg">
+![ScreenshotsFotAppStore 007](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/c7008d66-0728-4928-a559-12d8551f3428)
 
-<img width="600" alt="image" src="https://i.imgur.com/xCDaytW.jpg">
+![ScreenshotsFotAppStore 008](https://github.com/pommdau/peelable-sticky.github.io/assets/29433103/efcc1d8a-51db-4e7e-a42a-aca6e1074af9)
